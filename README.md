@@ -5,6 +5,8 @@ written by j.Noir 04/03/2026
 [webpage:] (https://henschel-robotics.ch/)
 email Chris Henschel: info@henschel-robotics.ch
 
+YOU NEED PYTHON 3.8.XX AND NUMPY 1.XX
+
 # INITIALISATION
 
 - mydrive=hdrive() #create an instance motor
