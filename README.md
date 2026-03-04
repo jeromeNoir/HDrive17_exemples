@@ -6,9 +6,9 @@ written by j.Noir 04/03/2026
 email Chris Henschel: info@henschel-robotics.ch
 
 # NOTES
--YOU NEED PYTHON 3.8.XX AND NUMPY 1.XX
--the IP of the drive is 192.168.1.102
--the IP of the host PC with ethernet connection must be set manually to 192.168.1.222
+- YOU NEED PYTHON 3.8.XX AND NUMPY 1.XX
+- the IP of the drive is 192.168.1.102
+- the IP of the host PC with ethernet connection must be set manually to 192.168.1.222
 
 # INITIALISATION
 
