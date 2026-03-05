@@ -2,7 +2,8 @@
 ''
 written by j.Noir 04/03/2026
 
-[webpage:] (https://henschel-robotics.ch/)
+# HARDWARE
+Motor Hdrive 17 from https://henschel-robotics.ch/
 email Chris Henschel: info@henschel-robotics.ch
 
 # NOTES
