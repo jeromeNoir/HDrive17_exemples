@@ -55,9 +55,11 @@ FOR SAFETY REASONS, THE DRIVE SET THE ZERO POSITION AS IT IS AT THE BEGINING OF 
 
 
 # MOVE TO POSITION:
-- mydrive.move(10) # move to 10deg, the 0 is the position when you last powered the drive
+- mydrive.newposition=30
+- mydrive.modde='move'
+- mydrive.start()
 
-# ROTATION: (NOT VERY STABLE BELOW 100rpm)
+# ROTATION: 
 ## set the rotation parameters
 - mydrive.rpm=30 #rotation speed in rpm
 
